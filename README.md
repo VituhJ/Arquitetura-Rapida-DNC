@@ -10,5 +10,5 @@ link do formulario = https://docs.google.com/spreadsheets/d/1CdBxelHudVAk4xIXRYp
 
 Vitordejesus989@gmail.com
 
-[Linkedin] (https://www.linkedin.com/in/vitor-de-jesus-maia-5804581b8/)https://www.linkedin.com/in/vitor-de-jesus-maia-5804581b8/)
+[Linkedin](https://www.linkedin.com/in/vitor-de-jesus-maia-5804581b8/)
 =======
